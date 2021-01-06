@@ -1,0 +1,13 @@
+{
+  "id": "inoreader",
+  "name": "Inoreader",
+  "version": "1.0.0",
+  "description": "Inoreader integration",
+  "main": "index.js",
+  "author": "Srinath Ananthakrishnan <srinath.krishna@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/borncrusader/ferdi-recipes",
+  "config": {
+    "serviceURL": "https://inoreader.com/"
+  }
+}
