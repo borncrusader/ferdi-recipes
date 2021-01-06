@@ -1,0 +1,13 @@
+{
+  "id": "hackernews",
+  "name": "Hacker News",
+  "version": "1.0.0",
+  "description": "Hacker News integration",
+  "main": "index.js",
+  "author": "Srinath Ananthakrishnan <srinath.krishna@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/borncrusader/ferdi-recipes",
+  "config": {
+    "serviceURL": "https://news.ycombinator.com/"
+  }
+}
